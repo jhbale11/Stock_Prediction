@@ -1,8 +1,8 @@
 # Stock_Prediction
 
 삼성전자의 주가를 다양한 방식으로 예측해보고자 합니다.
-ARIMA, SARIMA, Facebook Prophet부터
-RNN, LSTM, Transformer, TFT까지
+- ARIMA, SARIMA, Facebook Prophet부터
+- RNN, LSTM, Transformer, TFT까지
 Time Series Forecasting
 
 

@@ -3,7 +3,8 @@
 삼성전자의 주가를 다양한 방식으로 예측해보고자 합니다.
 - ARIMA, SARIMA, Facebook Prophet부터
 - RNN, LSTM, Transformer, TFT까지
-Time Series Forecasting
+
+Time Series Forecasting의 다양한 방법론들을 구현하고 실제 데이터에 실험해보고자 합니다.
 
 
 ### ** 삼성전자 주식 가격 예측 with ARIMA, Prophet

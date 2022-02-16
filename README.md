@@ -25,3 +25,6 @@ pytorch를 사용하여 LSTM 모델을 구현하였으며, 구현한 모델을 �
 이후 진행할 프로젝트에서는 이를 고려하여 진행하고자 한다.
 
 ### ** 삼성전자 주식 가격 예측 with Facebook Prophet
+Facebook Prophet을 사용하여 삼성전자 주가를 예측하는 실험을 진행하였다. 이전 Facebook Prophet을 진행했던 실험에 비해 Prophet의 구체적인 사용 방법과 Parameter의 의미도 함께 담아보았다. Change Point 시각화를 통해 삼성전자 주가의 Regime을 시각화해보았다.
+
+### ** 삼성전자 주식 가격 예측 with Transformer

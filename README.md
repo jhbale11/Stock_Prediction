@@ -34,5 +34,5 @@ Facebook Prophet을 사용하여 삼성전자 주가를 예측하는 실험을 �
 -----------------------------------------------------
 
 ### 4. 삼성전자 주식 가격 예측 with Transformer
-NLP분야 문제 해결을 위해 제안된 'Attention is All You Need(NIPS, 2017)'논문의 구조대로 Transformer를 구현하여 주가 예측 문제를 풀어보았다.Transformer Decoder가 좋지 못한 성능을 보여주었기에, FC Layer Decoder로 교체해서 학습을 진행하였고 그 결과를 확인하였다. 앞으로는
+NLP분야 문제 해결을 위해 제안된 **'Attention is All You Need(NIPS, 2017)'** 논문의 구조대로 Transformer를 구현하여 주가 예측 문제를 풀어보았다.Transformer Decoder가 좋지 못한 성능을 보여주었기에, FC Layer Decoder로 교체해서 학습을 진행하였고 그 결과를 확인하였다. 앞으로는
 Time Series Regression 문제에 대해 Transformer Based Model을 구현하고 주가 데이터로 실험해볼 계획이다.
